@@ -7,7 +7,7 @@ Feel free to connect with me if you'd like to collaborate or discuss exciting de
 
 ---
 
-# Project: [Your Project Name]
+# Project: [Medical-fe]
 
 ## Getting Started 🚀
 
